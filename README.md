@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <img src="https://discord-arts.asure.dev/card/1080098617924255765?disableProfileTheme=true" alt="Discord" width="600" height="200" />
+    <img src="https://discord-arts.asure.dev/card/1273692522148790412?disableProfileTheme=true" alt="Discord" width="600" height="200" />
 </p>
 
 <div align="center">
